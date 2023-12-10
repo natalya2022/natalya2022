@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/0QLfZCKK/frontend.jpg" align="center" style="width: 100px" />
 </div>
 
-### <div align="center">Привет! Меня зовут Наталья. Я frontend-разработчик</div>  
+### <div align="center">Привет! Меня зовут Наталья. Я frontend-разработчик 🌷</div>  
   
 
 - 👩‍💻 Основное направление, которое развиваю сейчас: JS, React, Redux, TypeScript  
